@@ -1,0 +1,63 @@
+body {
+    font-family: 'Weiss';
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar */
+.logo{
+    width: 80px;
+    height: 40px;
+    margin: 4px;
+}
+
+.navbar {
+    background-color: #343a40 !important;
+    padding: 1rem 0;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff !important;
+}
+
+.nav-link {
+    color: #fff !important;
+    margin: 0 10px;
+    font-size: 1.1rem;
+}
+
+.nav-link.active {
+    color: #48eec7 !important;
+}
+
+/* Gallery Section */
+.gallery-section {
+    padding: 80px 0;
+    text-align: center;
+}
+
+.gallery-section h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.gallery-section img {
+    max-width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+/* Footer */
+footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}
